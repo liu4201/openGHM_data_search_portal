@@ -8,10 +8,10 @@
     "version": "1.0.0",
     "attributes": {
       "metadata": {
-        "title": "Search | Globus Search Portal"
+        "title": "Search | OpenGHM Data Search Portal"
       },
       "content": {
-        "headline": "Globus Search Portal"
+        "headline": "OpenGHM Data Search Portal"
       },
       "features": {
         "transfer": true
@@ -37,7 +37,7 @@
           "redirect_uri": "https://liu4201.github.io/openGHM_data_search_portal/authenticate"
         },
         "search": {
-          "index": "62056c58-0627-4a31-acd7-a4a04f8fd773",
+          "index": [ "62056c58-0627-4a31-acd7-a4a04f8fd773", "f8b21135-1a7d-4853-9eae-7458486288e9"],
           "facets": [
             {
               "name": "Tags",
