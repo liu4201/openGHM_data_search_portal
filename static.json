@@ -37,12 +37,7 @@
           "redirect_uri": "https://liu4201.github.io/openGHM_data_search_portal/authenticate"
         },
         "search": {
-          "index": "f8b21135-1a7d-4853-9eae-7458486288e9",
-        "transfer": {
-          "collection": "69e6ac6e-8946-4e63-b4c4-261320a41333",
-          "path": "/",
-          "type": "directory"
-        },
+          "index": "62056c58-0627-4a31-acd7-a4a04f8fd773",
           "facets": [
             {
               "name": "Tags",
