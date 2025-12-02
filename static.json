@@ -21,12 +21,12 @@
           "heading": "entries[0].content.name",
           "fields": [
             {
-              "label": "Tags",
-              "property": "entries[0].content.tags"
+              "label": "title",
+              "property": "entries[0].content.title"
             },
             {
-              "label": "Region",
-              "property": "entries[0].content.region"
+              "label": "tags",
+              "property": "entries[0].content.tags"
             }
           ]
         }
