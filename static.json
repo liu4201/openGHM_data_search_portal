@@ -14,7 +14,7 @@
         "headline": "Globus Search Portal"
       },
       "features": {
-        "transfer": false
+        "transfer": true
       },
       "components": {
         "Result": {
@@ -32,6 +32,9 @@
         }
       },
       "globus": {
+        "application": {
+          "client_id": "1dca6334-27d7-4ddc-ab47-55c86683b68e"
+        },
         "search": {
           "index": "f8b21135-1a7d-4853-9eae-7458486288e9",
         "transfer": {
