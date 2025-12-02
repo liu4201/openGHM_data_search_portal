@@ -33,7 +33,8 @@
       },
       "globus": {
         "application": {
-          "client_id": "401eea7b-b30a-4a9e-80ee-6559c46b3d5a"
+          "client_id": "401eea7b-b30a-4a9e-80ee-6559c46b3d5a",
+          "redirect_uri": "https://liu4201.github.io/openGHM_data_portal/authenticate"
         },
         "search": {
           "index": "f8b21135-1a7d-4853-9eae-7458486288e9",
