@@ -33,7 +33,12 @@
       },
       "globus": {
         "search": {
-          "index": "78b92aca-e361-4307-8f66-bc448f20e2c3",
+          "index": "f8b21135-1a7d-4853-9eae-7458486288e9",
+        "transfer": {
+          "collection": "69e6ac6e-8946-4e63-b4c4-261320a41333",
+          "path": "/",
+          "type": "directory"
+        }
           "facets": [
             {
               "name": "Tags",
