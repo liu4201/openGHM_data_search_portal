@@ -28,6 +28,13 @@
               "label": "tags",
               "property": "entries[0].content.tags"
             }
+          ],
+          "links": [
+            {
+              "label": "Download via HTTPS",
+              "href": {
+                "property": "entries[0].content.globus.https_url" 
+            }
           ]
         }
       },
